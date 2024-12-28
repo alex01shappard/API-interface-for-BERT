@@ -1,0 +1,7 @@
+fastapi
+scikit-learn
+uvicorn
+torch
+transformers
+gradio
+
